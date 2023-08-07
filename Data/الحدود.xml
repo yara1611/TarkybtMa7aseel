@@ -7,7 +7,7 @@
         <Row ty='M' id="2" type='الفاكهة'>العنب</Row>
         <Row ty='M' id="3" type='الفاكهة'>الحمضيات</Row>
         <Row ty='M' id="4" type='الفاكهة'>التين</Row>
-        <Row ty='M' id="5" type='الفاكهة'>اشجار اخرى+ اشجار مختلطة</Row>
+        <Row ty='M' id="5" type='الفاكهة'>اشجار اخرى + اشجار مختلطة</Row>
         <Row ty='M' id="6" type='الحبوب'>الشعير</Row>
         <Row ty='M' id="7" type='الحبوب'>الذرة الشامية</Row>
         <Row ty='M' id="8" type='الحبوب'>الذرة الرفيعة</Row>
